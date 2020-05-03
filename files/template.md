@@ -17,4 +17,6 @@ sometext
 <a name="usage"></a>
 ## 2. Usage tips
 
-sometext
+[Cheat Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Tools markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
