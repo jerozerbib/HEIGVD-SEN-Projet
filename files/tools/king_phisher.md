@@ -49,7 +49,7 @@ En revanche, le *client* l'est sur Linux et Windows.
 #### Compabilité des différentes OS 
 
 | Linux OS  | Min Version | Client Support  | Server Support |
-| ----------|:-----------:| :--------------:| -------------: |
+| ----------|:-----------:| :--------------:| :------------: |
 | `BackBox` | 5           | yes             | yes            |
 | `CentOS`  | 7.0         | **no**          | yes            |
 | `Debian`  | 8           | yes             | yes            |
