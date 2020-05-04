@@ -19,6 +19,3 @@ La donnée du laboratoire, détaillant toutes les instructions, se trouve [ici](
 
 Vous trouverez le détail de l'outil `King Phisher` [ici](files/tools/king_phisher.md)
 
-[Cheat Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[Tools markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
