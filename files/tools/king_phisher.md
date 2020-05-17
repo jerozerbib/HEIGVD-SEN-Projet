@@ -113,13 +113,60 @@ Il est recommandé de faire ces étapes pour une amélioration des performances 
 <a name="desc"></a>
 ## 3. Descritption approfondie
 
+Après l'installation, il faut lancer le serveur avant le client afin qu'il puisse se connecter.
+Ce dernier se connecte via `SSH` au serveur poru la communication.
+Ce service doit être installé indépendamment, configuré et démarré avant de lancer `King Phisher`.
+Lors de l'établissement de la connexion, des credentials seront demandés au client. 
+Ces credentials sont les mêmes que ceux utilisés par le serveur pour se connecter en utilisant `SSH`.
+
+### Authentification d'un utilisateur 
+
+L'application `King Phisher` utilise le service d'authentification `PAM` (Pluggable authentication modules).
+Les utilisateurs souhaitant s'authentifier vers le serveur doivent avoir un compte système valide avec un mot de passe non-vide.
+Le client utilise les credentials fournis pour ouvrir une connection `SSH` vers le serveur, avec une redirection de port pour les requêtes `RPC` (remote procedure call -> équivalent à un VNC).
+Chaque requête RPC est authentifiée, utilisant les mêmes credentials.
+Le serveur a la possiblité de restreindre l'accès à certains utilisateurs en utilisant les configurations de `authentication.group`.
+Par défaut, tout utilisateur valide est autorisé à se connecter, à condition qu'il puisse se connecter via `SSH` et rediriger un port `TCP` vers `localhost`.  
+Grace au *ssh-agent*, le client `King Phisher` va se connecter automatiquement en utilisant les clés `SSH` disponibles sur le système.
+Sur *Kali Linux*, le *ssh-agent* ne tourne pas de base et doit être démarré manuellement ou grace à un système de management de clés comme `Seahorse`. 
+Le *ssh-agent* doit évidemment tourner et avoir une clé configurée pour que l'étape énoncée marche.  
+**Seules les clés DSA et RSA dans le style OpennSSh sont supportées**.
+Si plusieurs clés sont présentes dans le système, il est possible d'en sélectionner une dans le fichier de configuration `~./config/king_phisher/config.json` avec l'attribut `ssh_prefered_key`.
+Le fait d'utiliser une clé `SSH` n'exclue pas l'utilisation d'un mot de passe, qu'il faut aussi spécifier.
+
+### Base de données
+
+Le serveur doit être configuré avec une base de données qui est utilisée pour stocker les campagnes d'information.
+A partir de la version `0.1.6`, *postgresql* est recommandé en backend.
+
+#### Configuration de la base de données
+
+Normalement, le script d'installation crée un utilisateur qui est le seul à avoir accès à la base de données.
+Si ce n'est pas le cas, il faut suivre les étapes suivantes :
+- Trouver le fichier `pg_hba.conf` et rajouter la ligne suivante 
+    - `host     king_phisher    king_phisher   127.0.0.1/32            md5`
+- Dans le terminal, créer un utilisateur :
+    - `createuser king_phisher -P`
+    - Enter password for new role: yournewpassword
+    - Enter it again: yournewpassword
+- Et finalement, assigner un nouveau propriétaire de la base de données :
+    - `createdb --owner=king_phisher king_phisher`  
+Suite à cela, le service peut être redémarré et le fichier de configuration du serveur aura besoin d'être mis à jour avec la chaine de caractères de connexion à la base de données.
+La syntaxe est la suivante : `postgresql://username:password@localhost/database_name`
+
+#### Sauvegarde de la base de données
+
+Il est possible de faire un backup complet de la base de données avec la commande :
+`su postgres -l -c "pg_dump -Fc king_phisher | gzip > king-phisher-database.pgsql.gz"`
+
+### Serveur SMTP
+Afin que `King Phisher` puisse envoyer des mails, il est nécessaire de configurer un serveur `SMTP`.
+Il peut s'agir d'un relai ouvert où le client peut se connecter ou alors d'un autre serveur  
+
+
 <a name="demo"></a>
 ## 4. Démonstrations des possibilités
 
 <a name="conc"></a>
 ## 5. Conclusion
 
-
-[Cheat Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[Tools markdown](https://github.com/adam-p/markdown-here/wiki/Other-Markdown-Tools)
