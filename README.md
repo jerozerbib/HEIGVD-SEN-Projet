@@ -19,3 +19,7 @@ La donnée du laboratoire, détaillant toutes les instructions, se trouve [ici](
 
 Vous trouverez le détail de l'outil `King Phisher` [ici](files/tools/king_phisher.md)
 
+### 2.2 Wayback Machine
+
+Vous trouverez les détails de l'outil `Wayback Machine` [ici](files/tools/wayback_machine.md)
+
