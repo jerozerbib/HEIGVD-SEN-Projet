@@ -23,3 +23,7 @@ Vous trouverez le détail de l'outil `King Phisher` [ici](files/tools/king_phish
 
 Vous trouverez les détails de l'outil `Wayback Machine` [ici](files/tools/wayback_machine.md)
 
+### 2.3 SocialFish
+
+Vous trouverez les détails de l'outil `Social Fish` [ici](files/tools/social_fish.md)
+
