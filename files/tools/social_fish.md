@@ -50,7 +50,7 @@ Le cas d'utilisation le plus logique est donc le vol de donnée sur un site bien
 
 ## 4. Démonstrations des possibilités
 
-Nous allons démontrer ici la facilité d'utilisation de ce logiciel. On a donc 2 choix, s et o. S contient les réseaux sociaux et o contient Stackoverflow, wordpress etc. Le choix se porte ici sur o. 
+Nous allons démontrer ici la facilitée d'utilisation de ce logiciel. On a donc 2 choix, s et o. S contient les réseaux sociaux et o contient Stackoverflow, wordpress etc. Le choix se porte ici sur s. 
 
 ![P_1](assets/1_SF.png)
 
@@ -62,7 +62,7 @@ On voit bien l'adresse et  la copie du site sur l'image suivante :
 
 ![P_3](assets/3_SF.png)
 
-Une fois les credentials validé, nous avons bien une redirection sur le site de la HEIG-VD.
+Une fois les credentials validés, nous avons bien une redirection sur le site de la HEIG-VD.
 
 ![P_1](assets/4_SF.png)
 
