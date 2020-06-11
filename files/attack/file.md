@@ -24,8 +24,7 @@ Il faut commencer par poser les bases de l'attaques :
     - Quand on clique sur le lien "Log In", la cible est redirigée vers son compte LinkedIn comme si de rien n'était
     - Dans le cas où le mot de passe est un mot ou une phrase, il est possible qu'il soit utilisé autre part ...
 
-A priori, ce type d'attaque est réaliste pour cette cible car elle est connectée de manière relativement récurrente sur LinkedIn et  
-
+A priori, ce type d'attaque est réaliste pour cette cible car elle est connectée de manière relativement récurrente sur LinkedIn.
 ### Payload de l'attaque
 
 La modification du template du mail fera partie du payload de l'attaque.
