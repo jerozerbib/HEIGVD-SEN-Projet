@@ -94,7 +94,7 @@ En entrant son site personnel dans la recherche, nous avons trouvé les informat
 
 ![P_2](assets/m1.png)
 
-![P_2](assets/m1.png)
+![P_2](assets/m2.png)
 
 On constate qu’une adresse mail est plausible pour cette personne [erdalozkaya@outlook.com](mailto:erdalozkaya@outlook.com). On teste première l’adresse [eozkaya@ceotraining.com.au](mailto:eozkaya@ceotraining.com.au) sur un compte tel que linkedin pour voir si le compte existe vraiment, sachant que maltego pointe sur un lien likendin. 
 
