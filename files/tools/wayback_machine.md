@@ -36,6 +36,9 @@ A noter qu'en plus des pages web l'archive contient aussi :
 Le moyen le plus simple d'utilisation est via la page web archive.org.
 Puisque c'est une page web ça permet à n'importe quel système ayant accès à internet peut l'utiliser, un smartphone est donc déjà suffisant pour y accèder.
 La Wayback Machine a aussi été intégrée dans d'autre outil, je citerai notamment Metasploit que nous avons vu dans notre cour pour lequel il existe un module Wayback Machine.
+La page archive.org :
+
+![archive_org](assets/archive_org.PNG)
 
 <a name="desc"></a>
 ## 3. Descritption
