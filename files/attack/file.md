@@ -15,7 +15,7 @@ En revanche, nous pensons que la cible ne remplira pas son rôle car elle connai
 ### Support de l'attaque
 Ayant trouvé l'adresse mail connectée au compte LinkedIn de notre cible, nous pouvons imaginer faire une attaque de type phishing et de le faire se connecter sur un site répliqué.
 Il faut commencer par poser les bases de l'attaques : 
-- Il trouver le template type de mail envoyé par LinkedIn
+- Il faut trouver le template type de mail envoyé par LinkedIn
 - Générer à partir de ce template, un mail demandant de se connecter et de changer le mot de passe
     - Envoi depuis un serveur "clonant" le nom de Linkedin
     - Possibilité de faire en sorte que LinkedIn envoie le mail mais dans les headers, il sera possible de voir la source initiale
