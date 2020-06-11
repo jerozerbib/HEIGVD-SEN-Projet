@@ -119,4 +119,4 @@ En cherchant directement à partir des emails que nous connaissons, nous ne trou
 
 ![P_2](assets/m6.png)
 
-Avec ces informations, il est maintenant possible de créer une attaque ciblé sur cette personne. Ayant obtenu un compte, il nous reste à trouver un moyen de trouver le mot de passe.
+Avec ces informations, il est maintenant possible de créer une attaque ciblée sur cette personne. Ayant obtenu un compte, il nous reste à trouver un moyen de trouver le mot de passe.
