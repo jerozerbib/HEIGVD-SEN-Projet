@@ -182,7 +182,7 @@ Il est possible d'envoyer des modèles via une *PR* sur le repository directemen
 
 <a name="demo"></a>
 ## 4. Démonstrations des possibilités
-Des vidéos réalisées par le créateur de `King Phisher` permettent de voir bien mieux que n'importe quel démonstration faite par moi.
+Des vidéos réalisées par le créateur de `King Phisher` permettent de voir bien mieux que n'importe quelle démonstration faite par nos soins.  
 [Lien](https://securestate.wistia.com/projects/laevqz2p29)
 
 <a name="conc"></a>
