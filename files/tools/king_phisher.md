@@ -161,8 +161,24 @@ Il est possible de faire un backup complet de la base de données avec la comman
 
 ### Serveur SMTP
 Afin que `King Phisher` puisse envoyer des mails, il est nécessaire de configurer un serveur `SMTP`.
-Il peut s'agir d'un relai ouvert où le client peut se connecter ou alors d'un autre serveur  
+Il peut s'agir d'un relai ouvert où le client peut se connecter ou alors d'un autre serveur afin de pouvoir transférer des messages, action qui requiert normalement une authentification.
+Sur la page des [serveurs SMTP publics](https://github.com/rsmusllp/king-phisher/wiki/Public-SMTP-Servers), il est possible de trouver toutes les configurations les plus communes pour un serveur public.
+Si un serveur requiert une authentification, le champ `Username` doit être spécifié dans `Edit > Preferences`.
+Lors de la phase d'envois, l'utilisateur va devoir rentrer son mot de passe.  
 
+Il est recommandé d'utiliser un serveur SMTP privé pour ce genre de taches.
+Le client `King Phisher` peut être configuré avec une redirection de ports *SSH* afin de s'y connecter.  
+
+Le serveur SMTP sur lequel se connecte le client `King Phisher` peut être différent du serveur `King Phisher`.
+Les deux systèmes et les connections sont gérées de manière indépendante l'un de l'autre.
+
+### Connection à un serveur SMTP par SSH
+Si le client permet l'option `Tunnel Over SSH` dans la fenêtre de configuration, alors le serveur SMTP spécifié  sera une addresse IP ou le nom d'hote auquel il voudra se connecter depuis le serveur *SSH*.  
+Par exemple, si un relai ouvert SMTP existe à l'addresse `smtp.king-phisher-lan`, qui écoute simplement sur l'interface locale, alors le serveur SSH sera attribué à `smtp.king-phisher.lan:22` et le serveur SMTP sera `localhost:25`.
+
+### Modèles de pages
+Des modèles de messages et de pages de serveurs sont disponibles [ici](https://github.com/rsmusllp/king-phisher-templates).
+Il est possible d'envoyer des modèles via une *PR* sur le repository directement.
 
 <a name="demo"></a>
 ## 4. Démonstrations des possibilités
