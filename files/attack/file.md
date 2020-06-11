@@ -8,7 +8,7 @@
 
 L'objectif principal de cette attaque sera de récupérer le mot de passe du compte LinkedIn de la cible.
 Avoir cette information ne nous sert pas beaucoup à titre personnel mais dessert à la cible.
-En effet, étant une figure mondiale de la cyber sécurité et ayant écrit des livres sur l'ingénieurie sociale, ce genre d'attaques lui causerait énormément de tort.
+En effet, étant une figure mondiale de la cyber sécurité et ayant écrit des livres sur l'ingénierie sociale, ce genre d'attaques lui causerait énormément de tort.
 Il serait imaginable que, si cette information venait à être publiée, notre cible perdrait énormément au niveau de sa réputation et pourrait perdre beaucoup de prestige vis à vis de ces employeurs.  
 En revanche, nous pensons que la cible ne remplira pas son rôle car elle connait, à priori, ces techniques de phishing.
 
