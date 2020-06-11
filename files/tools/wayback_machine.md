@@ -64,6 +64,10 @@ Si notre page est bien archivée nous pouvons voir plusieurs choses :
 
 Une fois que l'on a trouvé le moment qui nous intéresse il suffis de cliquer sur l'heure de la snapshot voulu et la page que nous avons demandé est affichée telle qu'elle était ce jour ci.
 
+Ci-dessous un capture d'une recherche sur le compte twitter de Donald J. Trump.
+
+![wayback_trump](assets/wayback_trump.PNG)
+
 <a name="demo"></a>
 ## 4. Exemple d'utilisations
 
