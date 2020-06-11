@@ -27,3 +27,7 @@ Vous trouverez les détails de l'outil `Wayback Machine` [ici](files/tools/wayba
 
 Vous trouverez les détails de l'outil `Social Fish` [ici](files/tools/social_fish.md)
 
+## 3. Recherche d'informations sur sa cible
+
+Notre première cible est [Erdal Ozkaya](./files/target/erdal.md)
+
