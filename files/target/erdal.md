@@ -47,9 +47,12 @@ Favoris (facebook) :
 - Livre : Özgür Özan
 - Films : iki iyi Çocuk
 - Télévision : Beyaz Show
-- Jeux : XboxAthlètes : Mesut Özil
+- Jeux : Xbox
+- Athlètes : Mesut Özil
 - Équipes sportives : FC Bayern München
 - Personnes inspirante : Atatürk
+
+source : https://www.facebook.com/ErdalOzkaya
 
 <a name="parc"></a>
 ## 4. Parcours professionel et académique
@@ -79,6 +82,8 @@ A temps partiel :
 Il fait également partie des groupes suivant :
 - 2018 - Aujourd’hui The Board Of Advisors, Binalyze, World
 - 2019 - Aujourd’hui Australian Institute of ICT, Sydney, Australia
+
+source : https://ae.linkedin.com/in/erdalozkaya
 
 <a name="vp"></a>
 ## 5. Vie pivée
