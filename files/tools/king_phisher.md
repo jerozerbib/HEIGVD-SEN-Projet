@@ -182,7 +182,15 @@ Il est possible d'envoyer des modèles via une *PR* sur le repository directemen
 
 <a name="demo"></a>
 ## 4. Démonstrations des possibilités
+Des vidéos réalisées par le créateur de `King Phisher` permettent de voir bien mieux que n'importe quel démonstration faite par moi.
+[Lien](https://securestate.wistia.com/projects/laevqz2p29)
 
 <a name="conc"></a>
 ## 5. Conclusion
+En conclusion, nous pouvons affirmer que ce logiciel est extrêmement puissant mais qu'il n'est pas à la portée de tout le monde.
+En effet, les possibilités de ce logiciel sont énormes mais la configuration et l'utilisation du logiciel sont relativement complexe.
+En revanche, une fois maitrisé, l'envoi massif de mails est rendu très simple et la gestion de tout le système est aisé.
+Une documentation complète et détaillée aide beaucoup à trouver ses repères dans une masse d'informations.
+
+[Source](https://github.com/rsmusllp/king-phisher/wiki)
 
