@@ -31,3 +31,11 @@ Vous trouverez les détails de l'outil `Social Fish` [ici](files/tools/social_fi
 
 Notre première cible est [Erdal Ozkaya](files/target/erdal.md)
 
+## 4. Scénario d'attaque
+
+Notre scénario d'attaque se trouve [ici](files/attack/file.md)
+
+## 5. Simulation d'attaque
+
+La simulation se trouve [ici](files/simulation/file.m
+
