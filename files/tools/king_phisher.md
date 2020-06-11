@@ -1,4 +1,4 @@
-<# Auteurs : Lionel Burgbacher, Eric Noel, Jeremy Zerbib
+# Auteurs : Lionel Burgbacher, Eric Noel, Jeremy Zerbib
 
 # PROJET SEN : Spear Phishing
 
@@ -12,7 +12,7 @@
 4. [ Démonstrations des possibilités ](#demo)
 5. [ Conclusion ](#conc)
 
-a name="intro"></a>
+<a name="intro"></a>
 ## 1. Introduction
 
 `King Phisher` est un *toolkit* de logiciels open source de campagne de phishing.
