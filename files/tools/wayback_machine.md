@@ -66,7 +66,7 @@ Une fois que l'on a trouvé le moment qui nous intéresse il suffis de cliquer s
 
 Ci-dessous un capture d'une recherche sur le compte twitter de Donald J. Trump.
 
-![wayback_trump](assets/wayback_trump.PNG)
+![wayback_trump](assets/wayback_trump.png)
 
 <a name="demo"></a>
 ## 4. Exemple d'utilisations
