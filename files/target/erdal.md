@@ -20,7 +20,6 @@
 Nous avons choisi comme cible Erdal Ozkaya, étant lui même un expert en cyber sécurité et ayant écrit un livre sur l'ingénierie sociale, nous avons trouvé intéressant de voir à quel point il protégeait ses données et à quel point il était possible d’en trouver. Le but d'une attaque sur cette cible  serait de la décrédibilisée auprès de la communauté et des experts pour ainsi compromettre sa réputation.
 
 <a name="candi"></a>
-
 ## 2. Contact et informations
 
 Nous avons trouvé plusieurs moyen de contacter la cible, en voici la liste:

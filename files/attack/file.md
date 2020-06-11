@@ -2,8 +2,16 @@
 
 # PROJET SEN : Spear Phishing
 
+## Table des matières 
+
+1. [ Objectifs ](#Objectifs)
+2. [ Support de l'attaque ](#Support_attaque)
+3. [ Payload de l'attaque ](#Payload_attaque)
+
+
 ## Scénario d'attaque
  
+<a name="Objectifs"></a>
 ### Objectifs
 
 L'objectif principal de cette attaque sera de récupérer le mot de passe du compte LinkedIn de la cible.
@@ -12,6 +20,7 @@ En effet, étant une figure mondiale de la cyber sécurité et ayant écrit des 
 Il serait imaginable que, si cette information venait à être publiée, notre cible perdrait énormément au niveau de sa réputation et pourrait perdre beaucoup de prestige vis à vis de ces employeurs.  
 En revanche, nous pensons que la cible ne remplira pas son rôle car elle connait, à priori, ces techniques de phishing.
 
+<a name="Support_attaque"></a>
 ### Support de l'attaque
 Ayant trouvé l'adresse mail connectée au compte LinkedIn de notre cible, nous pouvons imaginer faire une attaque de type phishing et de le faire se connecter sur un site répliqué.
 Il faut commencer par poser les bases de l'attaques : 
@@ -25,6 +34,8 @@ Il faut commencer par poser les bases de l'attaques :
     - Dans le cas où le mot de passe est un mot ou une phrase, il est possible qu'il soit utilisé autre part ...
 
 A priori, ce type d'attaque est réaliste pour cette cible car elle est connectée de manière relativement récurrente sur LinkedIn.
+
+<a name="Payload_attaque"></a>
 ### Payload de l'attaque
 
 La modification du template du mail fera partie du payload de l'attaque.
