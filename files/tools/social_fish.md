@@ -17,7 +17,7 @@
 
 ## 1. Introduction
 
-SocialFish est un outil permettant la copie des réseaux sociaux les plus populaires (Facebook, Twitter, etc.). Nous avions déjà testé des outils de ce type pendant les laboratoires de SEN comme SET (bien plus d'outils différents disponibles). Avec SET, il était possible de copier un site en local ou de le mettre sur un serveur connecté à internet pour ensuite récupérer les credentials, mais son utilisation demandait plus de connaissance. Ici l'utilisation est bien plus ciblée. Pour utiliser cet outil, il suffit d'avoir python installer sur une machine. Il est donc possible de l'utiliser sur tous les systèmes d'exploitation. Son utilisation est tellement simple que tout le monde peut l'utiliser, même un néophyte. 
+SocialFish est un outil permettant la copie des réseaux sociaux les plus populaires (Facebook, Twitter, etc.). Nous avions déjà testé des outils de ce type pendant les laboratoires de SEN comme SET (bien plus d'outils différents disponibles). Avec SET, il était possible de copier un site en local ou de le mettre sur un serveur connecté à internet pour ensuite récupérer les credentials, mais son utilisation demandait plus de connaissance. Ici l'utilisation est bien plus ciblée. Pour utiliser cet outil, il suffit d'avoir python installer sur une machine. Il est donc possible de l'utiliser sur tous les systèmes d'exploitation. Son utilisation est tellement simple que tout le monde peut l'utiliser, même un néophyte. Son modèle économique est basé sur la donation, cependant le projet semble avoir été abandonné.
 
 <a name="install"></a>
 
