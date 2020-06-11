@@ -38,7 +38,7 @@ Puisque c'est une page web ça permet à n'importe quel système ayant accès à
 La Wayback Machine a aussi été intégrée dans d'autre outil, je citerai notamment Metasploit que nous avons vu dans notre cour pour lequel il existe un module Wayback Machine.
 La page archive.org :
 
-![archive_org](assets/archive_org.png)
+![archive_org](assets/archive_org.PNG)
 
 <a name="desc"></a>
 ## 3. Descritption
