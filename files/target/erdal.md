@@ -83,7 +83,7 @@ Il fait également partie des groupes suivant :
 <a name="vp"></a>
 ## 5. Vie pivée
 
-D’après les informations trouvées, il habitait Dubaï. Cette information viennent de twitter, Linkedin, etc. On trouve aussi un tweet le 24 mai concernant la fête de la fin du Ramadan, ainsi que des réponses le lui souhaitant aussi. Bien que cela n’affirme pas qu’il soit musulman, on peut quand même estimé qu’il l’est. 
+D’après les informations trouvées, il habitait Dubaï. Cette information viennent de Twitter, Linkedin, etc. On trouve aussi un tweet le 24 mai concernant la fête de la fin du Ramadan, ainsi que des réponses le lui souhaitant aussi. Bien que cela n’affirme pas qu’il soit musulman, on peut quand même estimé qu’il l’est. 
 Son profile instagram est publique, il est possible trouver plusieurs photos de lui et de sa famille. On y trouve ses enfants, sa femme et sa maman. On trouve ainsi que le compte de sa femme : arzu_idrisolgu_ozkaya. Bien que cette information soit importante, les comptes de sa famille sont privés. Il n’est pas pas possible de trouver directement des informations depuis leur compte. Mais il serait possible de trouver d’autres informations en utilisant le même procédé que pour lui et peut-être ainsi en trouver.
 
 <a name="malt"></a>
