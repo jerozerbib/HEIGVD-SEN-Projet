@@ -29,7 +29,7 @@ Vous trouverez les détails de l'outil `Social Fish` [ici](files/tools/social_fi
 
 ## 3. Recherche d'informations sur sa cible
 
-Notre première cible est [Erdal Ozkaya](files/target/erdal.md)
+Notre cible est [Erdal Ozkaya](files/target/erdal.md)
 
 ## 4. Scénario d'attaque
 
